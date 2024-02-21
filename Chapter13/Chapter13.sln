@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.EntityModels.SqlServer", "Northwind.Common.EntityModels.SqlServer\Northwind.Common.EntityModels.SqlServer.csproj", "{9FF29B29-5AE8-4914-A9E1-5BCA638AFAE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF29B29-5AE8-4914-A9E1-5BCA638AFAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF29B29-5AE8-4914-A9E1-5BCA638AFAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF29B29-5AE8-4914-A9E1-5BCA638AFAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF29B29-5AE8-4914-A9E1-5BCA638AFAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2242950-19CB-4E76-97C5-0568EBFF207D}
+	EndGlobalSection
+EndGlobal
